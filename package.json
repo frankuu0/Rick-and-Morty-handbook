@@ -1,5 +1,5 @@
 {
-  "name": "starcraft_units",
+  "name": "starcraft2_player_info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
